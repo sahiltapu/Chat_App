@@ -9,7 +9,7 @@ const SearchInput = () => {
         placeholder="search"
         className="input input-bordered w-full max-w-xs"
       />
-      <button type="submit" className="btn btn-circle btn-active btn-accent text-white">
+      <button type="submit" className="btn btn-circle btn-active btn-accent text-white opacity-70 hover:opacity-100">
         <FaSearch className="w-5 h-5 outline-none" />
       </button>
     </form>
