@@ -17,4 +17,4 @@ const MessageSkeleton = () => {
 		</>
 	);
 };
-export default MessageSkeleton;
+export default MessageSkeleton();
